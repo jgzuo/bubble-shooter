@@ -26,7 +26,7 @@
 
 点击以下链接即可在线游玩：
 
-**[🎮 玩游戏](https://your-username.github.io/bubble-shooter/)** | **[📖 关于](https://your-username.github.io/bubble-shooter/about.html)**
+**[🎮 玩游戏](https://jgzuo.github.io/bubble-shooter/)** | **[📖 关于](https://jgzuo.github.io/bubble-shooter/about.html)**
 
 #### 本地运行
 
@@ -115,7 +115,7 @@ Bubble Shooter is a classic puzzle matching game, reimagined with modern technol
 
 Click the links below to play online:
 
-**[🎮 Play Game](https://your-username.github.io/bubble-shooter/)** | **[📖 About](https://your-username.github.io/bubble-shooter/about.html)**
+**[🎮 Play Game](https://jgzuo.github.io/bubble-shooter/)** | **[📖 About](https://jgzuo.github.io/bubble-shooter/about.html)**
 
 #### Run Locally
 
